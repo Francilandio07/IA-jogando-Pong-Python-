@@ -6,8 +6,10 @@ No código desenvolvido uma rede neural simples é implementada e por reforço e
 
 A decisão da rede neural a cada iteração é de mover a raquete para cima ou para baixo de acordo com a saída, a mesma incorpora uma boa desenvoltura a partir de seus erros e atualização dos pesos de suas camadas que de início são todos aleatórios.
 
-##Visão do Jogo rodando
+## Visão do Jogo rodando
 <p align="center">
   <img width="600" height="400" src="https://user-images.githubusercontent.com/58220640/184260807-825cf303-0fdb-4fc7-8be2-88f2446ed550.gif">
 </p>
 
+## Referências
+Sequência de vídeos do canal Pythonando, iniciando em: https://youtu.be/DPDESXHJIPU
